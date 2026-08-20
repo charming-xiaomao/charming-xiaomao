@@ -9,7 +9,7 @@
   <summary><sub>⠀click⠀me⠀for⠀more</sub></summary>
    <br>  <sup>matching duo!!!</sup>
   <br>
-  <a href="https://github.com/ibispaintarchive"><sup>kian</sup></a>
+  <a href="https://github.com/7aeui"><sup>kian</sup></a>
    <br>
   <a href="https://github.com/matchingduo"><sup>me and kian’s shared account </sup>
   <br> <br>
